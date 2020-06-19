@@ -1,4 +1,4 @@
-# This is a simple colors.css template to use colors in CSS
+# This is a simple colors.css template to use Bootstrap 5 colors in CSS
 Using:
 1. Add colors.css in to html
 link rel="stylesheet" href="css/colors.css"
