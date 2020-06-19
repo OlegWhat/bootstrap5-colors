@@ -1,0 +1,220 @@
+.container{
+    max-width: 1000px;
+}
+
+.swatch-blue::after {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    padding-left: 1rem;
+    font-size: .75rem;
+    line-height: 1.35;
+    white-space: pre;
+    content: "4.50" "\a" "4.50" "\a" "4.66";
+    background-color: rgb(13, 110, 253);
+    background-repeat: no-repeat;
+    background-size: .5rem 100%;
+
+}
+
+    .swatch-blue {
+        color: rgb(255, 255, 255);
+        background-color: rgb(13, 110, 253);
+    }
+
+
+    .swatch-indigo::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "7.18" "\a" "7.18" "\a" "2.92";
+        background-color: rgb(102, 16, 242);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+
+    .swatch-indigo {
+        color: rgb(255, 255, 255);
+        background-color: rgb(102, 16, 242);
+    }
+
+    .swatch-purple::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "6.51" "\a" "6.51" "\a" "3.22";
+        background-color: rgb(111, 66, 193);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+
+    .swatch-purple {
+        color: rgb(255, 255, 255);
+        background-color: rgb(111, 66, 193);
+    }
+
+    .swatch-pink::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "4.50" "\a" "4.50" "\a" "4.66";
+        background-color: rgb(214, 51, 132);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+
+    .swatch-pink {
+        color: rgb(255, 255, 255);
+        background-color: rgb(214, 51, 132);
+    }
+
+    .swatch-red::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "4.52" "\a" "4.52" "\a" "4.63";
+        background-color: rgb(220, 53, 69);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+    .swatch-red {
+        color: rgb(255, 255, 255);
+        background-color: rgb(220, 53, 69);
+    }
+
+    .swatch-orange::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "6.00" "\a" "2.57" "\a" "8.17";
+        background-color: rgb(253, 126, 20);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+    .swatch-orange {
+        color: rgb(33, 37, 41);
+        background-color: rgb(253, 126, 20);
+    }
+
+    .swatch-yellow::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "9.46" "\a" "1.63" "\a" "12.8";
+        background-color: rgb(255, 193, 7);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+    .swatch-yellow {
+        color: rgb(33, 37, 41);
+        background-color: rgb(255, 193, 7);
+    }
+
+    .swatch-green::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "3.13" "\a" "3.13" "\a" "6.70";
+        background-color: rgb(40, 167, 69);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+    .swatch-green {
+        color: rgb(255, 255, 255);
+        background-color: rgb(40, 167, 69);
+    }
+
+    .swatch-teal::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "7.24" "\a" "2.12" "\a" "9.86";
+        background-color: rgb(32, 201, 151);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+    .swatch-teal {
+        color: rgb(33, 37, 41);
+        background-color: rgb(32, 201, 151);
+    }
+
+    .swatch-cyan::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "3.04" "\a" "3.04" "\a" "6.89";
+        background-color: rgb(23, 162, 184);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+    .swatch-cyan {
+        color: rgb(255, 255, 255);
+        background-color: rgb(23, 162, 184);
+    }
+
+    .swatch-gray-500::after {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        padding-left: 1rem;
+        font-size: .75rem;
+        line-height: 1.35;
+        white-space: pre;
+        content: "7.43" "\a" "2.07" "\a" "10.1";
+        background-color: rgb(173, 181, 189);
+        background-repeat: no-repeat;
+        background-size: .5rem 100%;
+    }
+    .swatch-gray-500 {
+        color: rgb(33, 37, 41);
+        background-color: rgb(173, 181, 189);
+    }
+
+    .bd-black {
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+    }
+    .bd-white {
+        color: rgb(33, 37, 41);
+        background-color: rgb(255, 255, 255);
+    }
+
+    .bor{
+        border: 1px solid #ccc;
+    }
